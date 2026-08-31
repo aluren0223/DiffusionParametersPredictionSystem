@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "username": "diffusion",
+  "salt": "6H7EHVFCzs7Cp+4rB9APdQ==",
+  "password_hash": "cGH9RmkRQBAyycGUp8CH5ntbElI76HA/RxRukQTEcek=",
+  "iterations": 310000,
+  "failed_attempts": 0,
+  "locked_until": 0.0,
+  "launch_token_hash": "",
+  "launch_token_expires": 0.0,
+  "created_at": "2026-08-31 17:54:50",
+  "password_changed_at": "2026-08-31 17:54:50",
+  "updated_at": 1788170090.516667
+}
