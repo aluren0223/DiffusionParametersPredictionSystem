@@ -75,5 +75,5 @@ restore.ps1                               合并分卷并解压脚本
 Python 3.12 · PyTorch（自动微分训练）· NumPy · Pandas · Matplotlib · PyInstaller 打包
 
 ## 说明
-
+username: diffusion, password: diffusion01
 - 输出目录、损失权重、网络宽度/深度、训练轮数、MC 样本数等参数可在程序界面及脚本内调整。
