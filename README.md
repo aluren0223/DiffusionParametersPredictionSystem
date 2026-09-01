@@ -76,5 +76,4 @@ Python 3.12 · PyTorch（自动微分训练）· NumPy · Pandas · Matplotlib �
 
 ## 说明
 
-- 仓库中含 `_internal/account.json`（本地账号凭证），公开仓库存在爆破风险，建议将仓库设为 **private**。
 - 输出目录、损失权重、网络宽度/深度、训练轮数、MC 样本数等参数可在程序界面及脚本内调整。
